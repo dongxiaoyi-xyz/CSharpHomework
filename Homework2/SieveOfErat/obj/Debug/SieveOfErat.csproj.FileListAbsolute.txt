@@ -1,0 +1,6 @@
+C:\Users\Administrator\source\repos\SieveOfErat\obj\Debug\SieveOfErat.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\SieveOfErat\bin\Debug\SieveOfErat.exe.config
+C:\Users\Administrator\source\repos\SieveOfErat\bin\Debug\SieveOfErat.exe
+C:\Users\Administrator\source\repos\SieveOfErat\bin\Debug\SieveOfErat.pdb
+C:\Users\Administrator\source\repos\SieveOfErat\obj\Debug\SieveOfErat.exe
+C:\Users\Administrator\source\repos\SieveOfErat\obj\Debug\SieveOfErat.pdb
