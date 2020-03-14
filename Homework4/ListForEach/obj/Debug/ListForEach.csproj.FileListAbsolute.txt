@@ -1,0 +1,6 @@
+C:\Users\Administrator\source\repos\ListForEach\bin\Debug\ListForEach.exe.config
+C:\Users\Administrator\source\repos\ListForEach\bin\Debug\ListForEach.exe
+C:\Users\Administrator\source\repos\ListForEach\bin\Debug\ListForEach.pdb
+C:\Users\Administrator\source\repos\ListForEach\obj\Debug\ListForEach.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\ListForEach\obj\Debug\ListForEach.exe
+C:\Users\Administrator\source\repos\ListForEach\obj\Debug\ListForEach.pdb
