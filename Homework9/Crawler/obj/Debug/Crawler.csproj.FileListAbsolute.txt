@@ -1,0 +1,12 @@
+C:\Users\Administrator\source\repos\Crawler\obj\Debug\Crawler.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\Crawler\bin\Debug\Crawler.exe.config
+C:\Users\Administrator\source\repos\Crawler\bin\Debug\Crawler.exe
+C:\Users\Administrator\source\repos\Crawler\bin\Debug\Crawler.pdb
+C:\Users\Administrator\source\repos\Crawler\obj\Debug\Crawler.exe
+C:\Users\Administrator\source\repos\Crawler\obj\Debug\Crawler.pdb
+C:\Users\Administrator\source\repos\Homework9\Crawler\bin\Debug\Crawler.exe.config
+C:\Users\Administrator\source\repos\Homework9\Crawler\bin\Debug\Crawler.exe
+C:\Users\Administrator\source\repos\Homework9\Crawler\bin\Debug\Crawler.pdb
+C:\Users\Administrator\source\repos\Homework9\Crawler\obj\Debug\Crawler.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\Homework9\Crawler\obj\Debug\Crawler.exe
+C:\Users\Administrator\source\repos\Homework9\Crawler\obj\Debug\Crawler.pdb
